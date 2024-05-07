@@ -1,7 +1,4 @@
-# Ethicka-Hacking-Techniques---19CS417-
-Name: S. SAHITHYA
-<br>Register No: 212221040140
-
+# Ethicka-Hacking-Techniques---19CS417
 # Echoserver
 Echo server and client using python socket
 
